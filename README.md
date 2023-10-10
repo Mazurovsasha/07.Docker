@@ -107,7 +107,8 @@ nano requirements.txt
 requirements.txt:
 
 ```
-Flask==2.0.2
+Flask==2.1.3
+Werkzeug==2.0.2
 ```
 
 ```bash
